@@ -8,7 +8,7 @@
       "category": "Haze",
       "category2": "Fruits",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "002",
@@ -18,7 +18,7 @@
       "category": "Haze",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "003",
@@ -28,7 +28,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "004",
@@ -38,7 +38,7 @@
       "category": "-",
       "category2": "Fruits",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "005",
@@ -48,7 +48,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "006",
@@ -58,7 +58,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "007",
@@ -68,7 +68,7 @@
       "category": "Purple",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "008",
@@ -78,7 +78,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "009",
@@ -88,7 +88,7 @@
       "category": "Gold",
       "category2": "Legendary / Gold",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "010",
@@ -98,7 +98,7 @@
       "category": "Zkittlez",
       "category2": "Food / Sweets / Rainbows",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "011",
@@ -108,7 +108,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "012",
@@ -118,7 +118,7 @@
       "category": "Haze",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "013",
@@ -128,7 +128,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "014",
@@ -138,7 +138,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": "015",
@@ -148,7 +148,7 @@
       "category": "OG",
       "category2": "Space / Aliens",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "016",
@@ -158,7 +158,7 @@
       "category": "Glue",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": "017",
@@ -168,7 +168,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "019",
@@ -178,7 +178,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "020",
@@ -188,7 +188,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": "021",
@@ -198,7 +198,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": "022",
@@ -208,7 +208,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "023",
@@ -218,7 +218,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "024",
@@ -228,7 +228,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Hybrid",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "025",
@@ -238,7 +238,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "026",
@@ -248,7 +248,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "027",
@@ -258,7 +258,7 @@
       "category": "Purple",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": "028",
@@ -268,7 +268,7 @@
       "category": "-",
       "category2": "Animals / Fantasy",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "031",
@@ -278,7 +278,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "032",
@@ -288,7 +288,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "033",
@@ -298,7 +298,7 @@
       "category": "-",
       "category2": "Spooky",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "034",
@@ -308,7 +308,7 @@
       "category": "Kush",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "035",
@@ -318,7 +318,7 @@
       "category": "Cheese",
       "category2": "Food / Cheese",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "High"
     },
     {
       "id": "036",
@@ -328,7 +328,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "037",
@@ -338,7 +338,7 @@
       "category": "Purple",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "038",
@@ -348,7 +348,7 @@
       "category": "-",
       "category2": "Plants",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "041",
@@ -358,7 +358,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "042",
@@ -368,7 +368,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": "043",
@@ -378,7 +378,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "044",
@@ -388,7 +388,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "046",
@@ -398,7 +398,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "047",
@@ -408,7 +408,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "048",
@@ -418,7 +418,7 @@
       "category": "OG",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "049",
@@ -428,7 +428,7 @@
       "category": "-",
       "category2": "Food / Sweets / Animals",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "052",
@@ -437,8 +437,8 @@
       "background": "Green",
       "category": "-",
       "category2": "OTHER",
-      "type": "",
-      "thc": 23
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": "054",
@@ -447,8 +447,8 @@
       "background": "Blue",
       "category": "-",
       "category2": "Animals",
-      "type": "",
-      "thc": 11
+      "type": "Hybrid",
+      "thc": "Medium"
     },
     {
       "id": "055",
@@ -458,7 +458,7 @@
       "category": "Kush",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "056",
@@ -468,7 +468,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "058",
@@ -478,7 +478,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 14
+      "thc": "Medium"
     },
     {
       "id": "060",
@@ -488,7 +488,7 @@
       "category": "Gold",
       "category2": "Animals / Gold",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "061",
@@ -498,7 +498,7 @@
       "category": "OG",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "065",
@@ -508,7 +508,7 @@
       "category": "Kush",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "066",
@@ -518,7 +518,7 @@
       "category": "Diesel",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "067",
@@ -528,7 +528,7 @@
       "category": "-",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Indica",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "068",
@@ -538,7 +538,7 @@
       "category": "Gold",
       "category2": "Animals / Gold",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "069",
@@ -548,7 +548,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "070",
@@ -558,7 +558,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "071",
@@ -568,7 +568,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "073",
@@ -578,7 +578,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "074",
@@ -588,7 +588,7 @@
       "category": "Glue",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": "075",
@@ -598,7 +598,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "076",
@@ -608,7 +608,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": "077",
@@ -618,7 +618,7 @@
       "category": "OG",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "078",
@@ -628,7 +628,7 @@
       "category": "OG",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": "079",
@@ -638,7 +638,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "080",
@@ -648,7 +648,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "081",
@@ -658,7 +658,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "082",
@@ -668,7 +668,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "083",
@@ -678,7 +678,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": "084",
@@ -688,7 +688,7 @@
       "category": "OG",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": "085",
@@ -698,7 +698,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": "086",
@@ -708,7 +708,7 @@
       "category": "Kush",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "087",
@@ -718,7 +718,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "088",
@@ -728,7 +728,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "090",
@@ -738,7 +738,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": "091",
@@ -748,7 +748,7 @@
       "category": "Kush",
       "category2": "Food / Sweets / Plants",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "092",
@@ -758,7 +758,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "093",
@@ -768,7 +768,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "094",
@@ -778,7 +778,7 @@
       "category": "Skunk",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "095",
@@ -788,7 +788,7 @@
       "category": "Gold",
       "category2": "Food / Fruits / Gold",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": "096",
@@ -798,7 +798,7 @@
       "category": "Kush",
       "category2": "Food / Fruits / Alien / Space",
       "type": "Mostly Indica",
-      "thc": 12
+      "thc": "Medium"
     },
     {
       "id": "097",
@@ -808,7 +808,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": "098",
@@ -818,7 +818,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": "099",
@@ -828,7 +828,7 @@
       "category": "-",
       "category2": "Animals / Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 100,
@@ -838,7 +838,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Mostly Indica",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 101,
@@ -848,7 +848,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 9
+      "thc": "Medium"
     },
     {
       "id": 102,
@@ -858,7 +858,7 @@
       "category": "Skunk",
       "category2": "Food / Fruits / Animals",
       "type": "Hybrid",
-      "thc": 15
+      "thc": "Medium"
     },
     {
       "id": 103,
@@ -868,7 +868,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 104,
@@ -878,7 +878,7 @@
       "category": "Kush",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 105,
@@ -888,7 +888,7 @@
       "category": "-",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 106,
@@ -898,7 +898,7 @@
       "category": "-",
       "category2": "Food / Fruits / Plants",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 107,
@@ -908,7 +908,7 @@
       "category": "Purple",
       "category2": "Plants",
       "type": "Mostly Indica",
-      "thc": 13
+      "thc": "Medium"
     },
     {
       "id": 108,
@@ -918,7 +918,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Sativa",
-      "thc": 29
+      "thc": "Super High"
     },
     {
       "id": 109,
@@ -928,7 +928,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 110,
@@ -938,7 +938,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 111,
@@ -948,7 +948,7 @@
       "category": "Cheese",
       "category2": "Food / Cheese",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 112,
@@ -958,7 +958,7 @@
       "category": "-",
       "category2": "Aliens / Space / Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 113,
@@ -968,7 +968,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 114,
@@ -978,7 +978,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 115,
@@ -988,7 +988,7 @@
       "category": "Zkittlez",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 116,
@@ -998,7 +998,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 117,
@@ -1008,7 +1008,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 118,
@@ -1018,7 +1018,7 @@
       "category": "Haze",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 119,
@@ -1028,7 +1028,7 @@
       "category": "OG",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 121,
@@ -1038,7 +1038,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 122,
@@ -1048,7 +1048,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 123,
@@ -1058,7 +1058,7 @@
       "category": "OG",
       "category2": "Gemstones",
       "type": "Hybrid",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 125,
@@ -1068,7 +1068,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 127,
@@ -1078,7 +1078,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 128,
@@ -1088,7 +1088,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 14
+      "thc": "Medium"
     },
     {
       "id": 129,
@@ -1098,7 +1098,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 131,
@@ -1108,7 +1108,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 132,
@@ -1118,7 +1118,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 133,
@@ -1128,7 +1128,7 @@
       "category": "Purple",
       "category2": "Fantasy / Rainbows",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 134,
@@ -1138,7 +1138,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 135,
@@ -1148,7 +1148,7 @@
       "category": "-",
       "category2": "Space / Spooky",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 137,
@@ -1158,7 +1158,7 @@
       "category": "Chocolate",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 138,
@@ -1168,7 +1168,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 139,
@@ -1178,7 +1178,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 140,
@@ -1188,7 +1188,7 @@
       "category": "Cheese",
       "category2": "Food / Cheese",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 141,
@@ -1198,7 +1198,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 142,
@@ -1208,7 +1208,7 @@
       "category": "Zkittlez",
       "category2": "Food / Fruits / Sweets / Rainbows",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 143,
@@ -1218,7 +1218,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 144,
@@ -1228,7 +1228,7 @@
       "category": "-",
       "category2": "Fantasy / Spooky",
       "type": "Hybrid",
-      "thc": 30
+      "thc": "Super High"
     },
     {
       "id": 145,
@@ -1238,7 +1238,7 @@
       "category": "Kush",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 146,
@@ -1248,7 +1248,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 147,
@@ -1258,7 +1258,7 @@
       "category": "-",
       "category2": "Food / Fruits / Aliens / Space",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 148,
@@ -1268,7 +1268,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 149,
@@ -1278,7 +1278,7 @@
       "category": "Chocolate",
       "category2": "Food / Sweets",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 150,
@@ -1288,7 +1288,7 @@
       "category": "Purple / Kush",
       "category2": "Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 152,
@@ -1298,7 +1298,7 @@
       "category": "-",
       "category2": "Food / Fruits / Animals",
       "type": "Hybrid",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 153,
@@ -1308,7 +1308,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 154,
@@ -1318,7 +1318,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 155,
@@ -1328,7 +1328,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 156,
@@ -1338,7 +1338,7 @@
       "category": "-",
       "category2": "Food / Sweets / Animals / Plants",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 158,
@@ -1348,7 +1348,7 @@
       "category": "Haze",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 160,
@@ -1358,7 +1358,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 162,
@@ -1368,7 +1368,7 @@
       "category": "OG",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 163,
@@ -1378,7 +1378,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 164,
@@ -1388,7 +1388,7 @@
       "category": "Glue",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 165,
@@ -1398,7 +1398,7 @@
       "category": "Purple",
       "category2": "Fantasy",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 166,
@@ -1408,7 +1408,7 @@
       "category": "-",
       "category2": "Food / Fruits / Gemstones",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 167,
@@ -1418,7 +1418,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 168,
@@ -1428,7 +1428,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 169,
@@ -1438,7 +1438,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 170,
@@ -1448,7 +1448,7 @@
       "category": "Haze",
       "category2": "Animals",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 171,
@@ -1458,7 +1458,7 @@
       "category": "-",
       "category2": "Fantasy / Gemstones",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 172,
@@ -1468,7 +1468,7 @@
       "category": "Cheese",
       "category2": "Food / Fruits / Sweets / Cheese",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 173,
@@ -1478,7 +1478,7 @@
       "category": "OG",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 174,
@@ -1488,7 +1488,7 @@
       "category": "-",
       "category2": "Food / Fruits / Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 176,
@@ -1498,7 +1498,7 @@
       "category": "Cheese",
       "category2": "Food / Fruits / Cheese",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 177,
@@ -1508,7 +1508,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 178,
@@ -1518,7 +1518,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 179,
@@ -1528,7 +1528,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 180,
@@ -1538,7 +1538,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 181,
@@ -1548,7 +1548,7 @@
       "category": "-",
       "category2": "Food / Fruits / Space",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 183,
@@ -1558,7 +1558,7 @@
       "category": "-",
       "category2": "Food / Trippy / Rainbows",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 185,
@@ -1568,7 +1568,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Mostly Indica",
-      "thc": 29
+      "thc": "Super High"
     },
     {
       "id": 186,
@@ -1578,7 +1578,7 @@
       "category": "-",
       "category2": "Food / Sweets / Animals",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 187,
@@ -1588,7 +1588,7 @@
       "category": "-",
       "category2": "Neon",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 188,
@@ -1598,7 +1598,7 @@
       "category": "Skunk",
       "category2": "Animals / Neon",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 189,
@@ -1608,7 +1608,7 @@
       "category": "-",
       "category2": "Food / Fantasy",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 190,
@@ -1618,7 +1618,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 192,
@@ -1628,7 +1628,7 @@
       "category": "-",
       "category2": "Food / Fruits / Space",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 195,
@@ -1638,7 +1638,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Mostly Indica",
-      "thc": 11
+      "thc": "Medium"
     },
     {
       "id": 196,
@@ -1648,7 +1648,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 198,
@@ -1658,7 +1658,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 200,
@@ -1668,7 +1668,7 @@
       "category": "-",
       "category2": "Food / Fruits / Animals",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 201,
@@ -1678,7 +1678,7 @@
       "category": "-",
       "category2": "Food / Fruits / Spooky",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 202,
@@ -1688,7 +1688,7 @@
       "category": "Kush",
       "category2": "Space",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 204,
@@ -1697,8 +1697,8 @@
       "background": "Black",
       "category": "-",
       "category2": "Trippy / Rainbows",
-      "type": "",
-      "thc": 29
+      "type": "Hybrid",
+      "thc": "Super High"
     },
     {
       "id": 205,
@@ -1708,7 +1708,7 @@
       "category": "-",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 206,
@@ -1718,7 +1718,7 @@
       "category": "Kush",
       "category2": "Neon",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 207,
@@ -1728,7 +1728,7 @@
       "category": "OG",
       "category2": "Fantasy",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 208,
@@ -1738,7 +1738,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 209,
@@ -1748,7 +1748,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Mostly Sativa",
-      "thc": 10
+      "thc": "Medium"
     },
     {
       "id": 210,
@@ -1758,7 +1758,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 211,
@@ -1768,7 +1768,7 @@
       "category": "-",
       "category2": "Food / Sweets / Plants",
       "type": "Mostly Sativa",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 212,
@@ -1778,7 +1778,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 216,
@@ -1788,7 +1788,7 @@
       "category": "-",
       "category2": "Trippy / Animals",
       "type": "Hybrid",
-      "thc": 27
+      "thc": "Very high"
     },
     {
       "id": 217,
@@ -1798,7 +1798,7 @@
       "category": "Glue",
       "category2": "Space / Neon",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 219,
@@ -1808,7 +1808,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 220,
@@ -1818,7 +1818,7 @@
       "category": "-",
       "category2": "Food / Fruits / Trippy",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 223,
@@ -1828,7 +1828,7 @@
       "category": "-",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 224,
@@ -1838,7 +1838,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 226,
@@ -1848,7 +1848,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Aliens / Space",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 227,
@@ -1858,7 +1858,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 228,
@@ -1868,7 +1868,7 @@
       "category": "Kush",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 229,
@@ -1878,7 +1878,7 @@
       "category": "Kush",
       "category2": "Neon",
       "type": "Hybrid",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 230,
@@ -1888,7 +1888,7 @@
       "category": "-",
       "category2": "Animals / Spooky",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 232,
@@ -1898,7 +1898,7 @@
       "category": "Glue",
       "category2": "Aliens / Space / Neon",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 233,
@@ -1908,7 +1908,7 @@
       "category": "OG",
       "category2": "Aliens / Space / Spooky",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 235,
@@ -1918,7 +1918,7 @@
       "category": "-",
       "category2": "Aliens / Space / Food / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 236,
@@ -1928,7 +1928,7 @@
       "category": "-",
       "category2": "Aliens / Space / Animals",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 237,
@@ -1938,7 +1938,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 238,
@@ -1948,7 +1948,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 239,
@@ -1958,7 +1958,7 @@
       "category": "Diesel",
       "category2": "Aliens / Space / Animals",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 240,
@@ -1968,7 +1968,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 243,
@@ -1978,7 +1978,7 @@
       "category": "Skunk",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 244,
@@ -1988,7 +1988,7 @@
       "category": "-",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 245,
@@ -1998,7 +1998,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 247,
@@ -2008,7 +2008,7 @@
       "category": "-",
       "category2": "Food / Fruits / Spooky",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 248,
@@ -2018,7 +2018,7 @@
       "category": "-",
       "category2": "Food / Fruits / Trippy",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 250,
@@ -2028,7 +2028,7 @@
       "category": "-",
       "category2": "Food / Fruits / Aliens / Space",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 257,
@@ -2038,7 +2038,7 @@
       "category": "Glue",
       "category2": "Rainbows",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 258,
@@ -2048,7 +2048,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 260,
@@ -2058,7 +2058,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 261,
@@ -2068,7 +2068,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 262,
@@ -2078,7 +2078,7 @@
       "category": "-",
       "category2": "Food / Sweets / Neon",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 263,
@@ -2088,7 +2088,7 @@
       "category": "-",
       "category2": "Fantasy",
       "type": "Mostly Indica",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 267,
@@ -2098,7 +2098,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 270,
@@ -2108,7 +2108,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 271,
@@ -2118,7 +2118,7 @@
       "category": "-",
       "category2": "Gemstones / Fantasy / Spooky",
       "type": "Mostly Sativa",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 272,
@@ -2128,7 +2128,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 12
+      "thc": "Medium"
     },
     {
       "id": 274,
@@ -2138,7 +2138,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 276,
@@ -2148,7 +2148,7 @@
       "category": "Cheese",
       "category2": "Food / Aliens / Space / Cheese",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 278,
@@ -2158,7 +2158,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 279,
@@ -2168,7 +2168,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 282,
@@ -2178,7 +2178,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 285,
@@ -2188,7 +2188,7 @@
       "category": "Purple",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 286,
@@ -2198,7 +2198,7 @@
       "category": "Haze",
       "category2": "Gemstones",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 287,
@@ -2208,7 +2208,7 @@
       "category": "Glue",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 288,
@@ -2218,7 +2218,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 289,
@@ -2228,7 +2228,7 @@
       "category": "Zkittlez",
       "category2": "Food / Sweets / Animals",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 290,
@@ -2238,7 +2238,7 @@
       "category": "-",
       "category2": "Neon",
       "type": "Hybrid",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 292,
@@ -2248,7 +2248,7 @@
       "category": "Glue",
       "category2": "Food / Fruits",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 293,
@@ -2258,7 +2258,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 294,
@@ -2268,7 +2268,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 28
+      "thc": "Very High"
     },
     {
       "id": 295,
@@ -2278,7 +2278,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 297,
@@ -2288,7 +2288,7 @@
       "category": "-",
       "category2": "Rainbows",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 298,
@@ -2298,7 +2298,7 @@
       "category": "Gold",
       "category2": "Food / Fruits / Gold",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 299,
@@ -2308,7 +2308,7 @@
       "category": "OG",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 301,
@@ -2318,7 +2318,7 @@
       "category": "-",
       "category2": "Trippy / Rainbows",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 302,
@@ -2328,7 +2328,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 303,
@@ -2338,7 +2338,7 @@
       "category": "-",
       "category2": "Animals / Space",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 305,
@@ -2348,7 +2348,7 @@
       "category": "Gelato",
       "category2": "Food / Fruits / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 306,
@@ -2358,7 +2358,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 307,
@@ -2368,7 +2368,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 308,
@@ -2378,7 +2378,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 310,
@@ -2388,7 +2388,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 311,
@@ -2398,7 +2398,7 @@
       "category": "Diesel",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 313,
@@ -2408,7 +2408,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 314,
@@ -2418,7 +2418,7 @@
       "category": "-",
       "category2": "Food / Fruits / Rainbows",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 315,
@@ -2426,9 +2426,9 @@
       "body": "Orange",
       "background": "Black",
       "category": "-",
-      "category2": "Food / Fruits / weets / Aliens / Space",
+      "category2": "Food / Fruits / Sweets / Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 318,
@@ -2438,7 +2438,7 @@
       "category": "-",
       "category2": "Neon",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 320,
@@ -2448,7 +2448,7 @@
       "category": "Purple / Haze",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 321,
@@ -2458,7 +2458,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 322,
@@ -2468,7 +2468,7 @@
       "category": "OG",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 323,
@@ -2478,7 +2478,7 @@
       "category": "OG",
       "category2": "Spooky",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 324,
@@ -2488,7 +2488,7 @@
       "category": "Skunk",
       "category2": "Legendary / Animals",
       "type": "Mostly Sativa",
-      "thc": 16
+      "thc": "Medium"
     },
     {
       "id": 325,
@@ -2498,7 +2498,7 @@
       "category": "-",
       "category2": "Gemstones",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 326,
@@ -2508,7 +2508,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 327,
@@ -2518,7 +2518,7 @@
       "category": "Glue",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 328,
@@ -2528,7 +2528,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 329,
@@ -2538,7 +2538,7 @@
       "category": "OG",
       "category2": "Gemstones",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 330,
@@ -2548,7 +2548,7 @@
       "category": "OG",
       "category2": "Fantasy / Spooky",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 331,
@@ -2558,7 +2558,7 @@
       "category": "Haze",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Sativa",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 332,
@@ -2568,7 +2568,7 @@
       "category": "-",
       "category2": "Neon",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 333,
@@ -2578,7 +2578,7 @@
       "category": "-",
       "category2": "Fantasy",
       "type": "Hybrid",
-      "thc": 28
+      "thc": "Very High"
     },
     {
       "id": 334,
@@ -2588,7 +2588,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 335,
@@ -2598,7 +2598,7 @@
       "category": "OG",
       "category2": "Spooky",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 336,
@@ -2608,7 +2608,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 337,
@@ -2618,7 +2618,7 @@
       "category": "Kush",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 338,
@@ -2628,7 +2628,7 @@
       "category": "-",
       "category2": "Fantasy / Neon",
       "type": "Mostly Sativa",
-      "thc": 5
+      "thc": "Low"
     },
     {
       "id": 339,
@@ -2638,7 +2638,7 @@
       "category": "-",
       "category2": "Plants",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 340,
@@ -2648,7 +2648,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Animals",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 341,
@@ -2658,7 +2658,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 342,
@@ -2668,7 +2668,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 343,
@@ -2678,7 +2678,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 344,
@@ -2688,7 +2688,7 @@
       "category": "OG",
       "category2": "Spooky",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 345,
@@ -2698,7 +2698,7 @@
       "category": "-",
       "category2": "Animals / Neon",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 346,
@@ -2708,7 +2708,7 @@
       "category": "Glue",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 347,
@@ -2718,7 +2718,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 348,
@@ -2728,7 +2728,7 @@
       "category": "-",
       "category2": "Plants",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 349,
@@ -2738,7 +2738,7 @@
       "category": "-",
       "category2": "Gemstones / Neon",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 350,
@@ -2748,7 +2748,7 @@
       "category": "-",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Mostly Sativa",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 351,
@@ -2758,7 +2758,7 @@
       "category": "Kush",
       "category2": "Legendary",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 352,
@@ -2768,7 +2768,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 353,
@@ -2778,7 +2778,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 354,
@@ -2788,7 +2788,7 @@
       "category": "OG",
       "category2": "Gemstones",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 355,
@@ -2798,7 +2798,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 356,
@@ -2808,7 +2808,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 357,
@@ -2818,7 +2818,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 358,
@@ -2828,7 +2828,7 @@
       "category": "Glue",
       "category2": "Space / Neon",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 359,
@@ -2838,7 +2838,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 360,
@@ -2848,7 +2848,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 361,
@@ -2858,7 +2858,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 362,
@@ -2868,7 +2868,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 363,
@@ -2878,7 +2878,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 364,
@@ -2888,7 +2888,7 @@
       "category": "-",
       "category2": "Gemstones / Neon",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 365,
@@ -2898,7 +2898,7 @@
       "category": "Glue",
       "category2": "Spooky",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 366,
@@ -2908,7 +2908,7 @@
       "category": "-",
       "category2": "Food / Sweets / Trippy",
       "type": "Mostly Sativa",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 367,
@@ -2918,7 +2918,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Space",
       "type": "Mostly Indica",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 368,
@@ -2928,7 +2928,7 @@
       "category": "Kush",
       "category2": "Legendary",
       "type": "Mostly Indica",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 369,
@@ -2938,7 +2938,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 370,
@@ -2948,7 +2948,7 @@
       "category": "-",
       "category2": "Space / Neon",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 371,
@@ -2958,7 +2958,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Sativa",
-      "thc": 12
+      "thc": "Medium"
     },
     {
       "id": 372,
@@ -2968,7 +2968,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 373,
@@ -2978,7 +2978,7 @@
       "category": "Gold",
       "category2": "Gold",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 374,
@@ -2988,7 +2988,7 @@
       "category": "-",
       "category2": "Food / Sweets / Rainbows",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 375,
@@ -2998,7 +2998,7 @@
       "category": "-",
       "category2": "Food / Fruits / Spooky",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 376,
@@ -3008,7 +3008,7 @@
       "category": "-",
       "category2": "Food / Animals",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 377,
@@ -3018,7 +3018,7 @@
       "category": "OG",
       "category2": "Fantasy / Spooky",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 378,
@@ -3028,7 +3028,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 379,
@@ -3038,7 +3038,7 @@
       "category": "Skunk",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 380,
@@ -3048,7 +3048,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 381,
@@ -3058,7 +3058,7 @@
       "category": "Chocolate",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 382,
@@ -3068,7 +3068,7 @@
       "category": "Zkittlez",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 383,
@@ -3078,7 +3078,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 384,
@@ -3088,7 +3088,7 @@
       "category": "Gold",
       "category2": "Legendary / Gold",
       "type": "Mostly Sativa",
-      "thc": 18
+      "thc": "Medium"
     },
     {
       "id": 385,
@@ -3098,7 +3098,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 386,
@@ -3108,7 +3108,7 @@
       "category": "Kush",
       "category2": "Rainbows",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 387,
@@ -3118,7 +3118,7 @@
       "category": "-",
       "category2": "Legendary",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 388,
@@ -3128,7 +3128,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 389,
@@ -3138,7 +3138,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 390,
@@ -3148,7 +3148,7 @@
       "category": "Gold",
       "category2": "Legendary / Gold",
       "type": "Mostly Indica",
-      "thc": 17
+      "thc": "Medium"
     },
     {
       "id": 391,
@@ -3158,7 +3158,7 @@
       "category": "Cheese",
       "category2": "Food / Cheese",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 392,
@@ -3168,7 +3168,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 393,
@@ -3178,7 +3178,7 @@
       "category": "OG",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 394,
@@ -3188,7 +3188,7 @@
       "category": "Skunk",
       "category2": "Food / Fruits / Animals",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 395,
@@ -3198,7 +3198,7 @@
       "category": "-",
       "category2": "Gemstones",
       "type": "Mostly Indica",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 396,
@@ -3208,7 +3208,7 @@
       "category": "OG",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 397,
@@ -3218,7 +3218,7 @@
       "category": "-",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 398,
@@ -3228,7 +3228,7 @@
       "category": "OG",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 399,
@@ -3237,8 +3237,8 @@
       "background": "Green",
       "category": "Glue",
       "category2": "Animals",
-      "type": "",
-      "thc": ""
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 400,
@@ -3248,7 +3248,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Fantasy / Rainbows",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 401,
@@ -3258,7 +3258,7 @@
       "category": "Kush",
       "category2": "Plants",
       "type": "Mostly Indica",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 402,
@@ -3268,7 +3268,7 @@
       "category": "-",
       "category2": "Aliens / Space / Spooky",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 403,
@@ -3278,7 +3278,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 404,
@@ -3288,7 +3288,7 @@
       "category": "Haze",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 405,
@@ -3298,7 +3298,7 @@
       "category": "Kush",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 406,
@@ -3308,7 +3308,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 407,
@@ -3318,7 +3318,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 408,
@@ -3328,7 +3328,7 @@
       "category": "Cookies",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 409,
@@ -3338,7 +3338,7 @@
       "category": "-",
       "category2": "Space / Animals",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 410,
@@ -3348,7 +3348,7 @@
       "category": "-",
       "category2": "Fantasy",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 411,
@@ -3358,7 +3358,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 412,
@@ -3368,7 +3368,7 @@
       "category": "OG",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 413,
@@ -3378,7 +3378,7 @@
       "category": "-",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 414,
@@ -3388,7 +3388,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Sativa",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 415,
@@ -3398,7 +3398,7 @@
       "category": "-",
       "category2": "Gemstones",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 416,
@@ -3408,7 +3408,7 @@
       "category": "-",
       "category2": "Food / Fruits / Trippy",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 417,
@@ -3418,7 +3418,7 @@
       "category": "-",
       "category2": "Food / Sweets / Aliens / Space",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 418,
@@ -3428,7 +3428,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 419,
@@ -3438,7 +3438,7 @@
       "category": "-",
       "category2": "Trippy",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 420,
@@ -3448,7 +3448,7 @@
       "category": "Glue",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 421,
@@ -3458,7 +3458,7 @@
       "category": "-",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 422,
@@ -3468,7 +3468,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 423,
@@ -3478,7 +3478,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 424,
@@ -3488,7 +3488,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Sativa",
-      "thc": 30
+      "thc": "Super High"
     },
     {
       "id": 425,
@@ -3498,7 +3498,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 26
+      "thc": "Very High"
     },
     {
       "id": 426,
@@ -3508,7 +3508,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 427,
@@ -3518,7 +3518,7 @@
       "category": "Glue",
       "category2": "Fantasy / Spooky",
       "type": "Mostly Sativa",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 428,
@@ -3528,7 +3528,7 @@
       "category": "Haze",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 429,
@@ -3537,8 +3537,8 @@
       "background": "Purple",
       "category": "Cheese",
       "category2": "Food / Fruits / Cheese",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 430,
@@ -3547,8 +3547,8 @@
       "background": "Blue",
       "category": "-",
       "category2": "Gemstones",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 431,
@@ -3558,7 +3558,7 @@
       "category": "-",
       "category2": "Space / Fantasy / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 432,
@@ -3568,7 +3568,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Ice Cream / Rainbows",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 433,
@@ -3578,7 +3578,7 @@
       "category": "",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 434,
@@ -3588,7 +3588,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Rainbows",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 435,
@@ -3598,7 +3598,7 @@
       "category": "Haze",
       "category2": "Food / Fruits",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 436,
@@ -3608,7 +3608,7 @@
       "category": "Cookies",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 437,
@@ -3617,8 +3617,8 @@
       "background": "Green",
       "category": "-",
       "category2": "OTHER",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 438,
@@ -3628,7 +3628,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 439,
@@ -3638,7 +3638,7 @@
       "category": "-",
       "category2": "Food",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 440,
@@ -3648,7 +3648,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Fantasy / Spooky",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 441,
@@ -3658,7 +3658,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 442,
@@ -3668,7 +3668,7 @@
       "category": "-",
       "category2": "Food / Cheese",
       "type": "Mostly Sativa",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 443,
@@ -3677,8 +3677,8 @@
       "background": "Green",
       "category": "-",
       "category2": "Fantasy / Spooky",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 444,
@@ -3688,7 +3688,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 445,
@@ -3698,7 +3698,7 @@
       "category": "-",
       "category2": "Food / Sweets / Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 446,
@@ -3707,8 +3707,8 @@
       "background": "Blue / Green",
       "category": "-",
       "category2": "Food / Fruits / Animals",
-      "type": "???",
-      "thc": "???"
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 447,
@@ -3718,7 +3718,7 @@
       "category": "-",
       "category2": "Food / Sweets / Rainbows",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 448,
@@ -3728,7 +3728,7 @@
       "category": "-",
       "category2": "Food / Fruits / Fantasy",
       "type": "Mostly Sativa",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 449,
@@ -3738,7 +3738,7 @@
       "category": "-",
       "category2": "Fantasy",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 450,
@@ -3748,7 +3748,7 @@
       "category": "-",
       "category2": "Food / Fruits",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 451,
@@ -3757,8 +3757,8 @@
       "background": "Blue / Green",
       "category": "-",
       "category2": "Animals",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 452,
@@ -3767,8 +3767,8 @@
       "background": "Green",
       "category": "Diesel",
       "category2": "Trippy / Animals",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 453,
@@ -3778,7 +3778,7 @@
       "category": "-",
       "category2": "Food / Fruits / Sweets",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 454,
@@ -3788,7 +3788,7 @@
       "category": "Cookies",
       "category2": "Food / Sweets / Gemstones",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 455,
@@ -3797,8 +3797,8 @@
       "background": "Green",
       "category": "-",
       "category2": "Food / Spooky",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 456,
@@ -3808,7 +3808,7 @@
       "category": "-",
       "category2": "Aliens / Space",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 457,
@@ -3818,7 +3818,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 458,
@@ -3828,7 +3828,7 @@
       "category": "-",
       "category2": "Animals / Spooky",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 459,
@@ -3838,7 +3838,7 @@
       "category": "Skunk",
       "category2": "Animals / Spooky",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 460,
@@ -3848,7 +3848,7 @@
       "category": "Zkittlez",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 461,
@@ -3858,7 +3858,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 462,
@@ -3868,7 +3868,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 463,
@@ -3877,8 +3877,8 @@
       "background": "Green",
       "category": "Cookies",
       "category2": "Food / Sweets",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "HIgh"
     },
     {
       "id": 464,
@@ -3888,7 +3888,7 @@
       "category": "Gelato",
       "category2": "Food / Sweets / Gemstones / Ice Cream",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 465,
@@ -3898,7 +3898,7 @@
       "category": "Kush",
       "category2": "Food",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 466,
@@ -3908,7 +3908,7 @@
       "category": "Kush",
       "category2": "Animals / Spooky",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 467,
@@ -3918,7 +3918,7 @@
       "category": "-",
       "category2": "Rainbows",
       "type": "Mostly Indica",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 468,
@@ -3928,7 +3928,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Mostly Sativa",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 469,
@@ -3938,7 +3938,7 @@
       "category": "-",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 470,
@@ -3948,7 +3948,7 @@
       "category": "-",
       "category2": "Spooky",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 471,
@@ -3957,8 +3957,8 @@
       "background": "Brown",
       "category": "-",
       "category2": "Food / Sweets / Plants",
-      "type": "???",
-      "thc": "???"
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 472,
@@ -3968,7 +3968,7 @@
       "category": "Zkittlez",
       "category2": "Food / Fruits / Sweets",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 473,
@@ -3978,7 +3978,7 @@
       "category": "-",
       "category2": "Rainbows",
       "type": "Hybrid",
-      "thc": 27
+      "thc": "Very High"
     },
     {
       "id": 474,
@@ -3988,7 +3988,7 @@
       "category": "-",
       "category2": "Food / Fruits / Space",
       "type": "Mostly Indica",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 475,
@@ -3998,7 +3998,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 476,
@@ -4008,7 +4008,7 @@
       "category": "Glue",
       "category2": "Food / Sweets",
       "type": "Mostly Sativa",
-      "thc": 24
+      "thc": "High"
     },
     {
       "id": 477,
@@ -4018,7 +4018,7 @@
       "category": "Kush",
       "category2": "Food / Sweets",
       "type": "Mostly Indica",
-      "thc": 21
+      "thc": "High"
     },
     {
       "id": 478,
@@ -4028,7 +4028,7 @@
       "category": "Zkittlez",
       "category2": "Food / Sweets / Rainbows",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 479,
@@ -4038,7 +4038,7 @@
       "category": "Kush",
       "category2": "Spooky",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 480,
@@ -4048,7 +4048,7 @@
       "category": "Kush",
       "category2": "Animals",
       "type": "Hybrid",
-      "thc": 20
+      "thc": "High"
     },
     {
       "id": 481,
@@ -4058,7 +4058,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Mostly Indica",
-      "thc": 30
+      "thc": "Super High"
     },
     {
       "id": 482,
@@ -4068,7 +4068,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 483,
@@ -4078,7 +4078,7 @@
       "category": "Skunk",
       "category2": "Animals",
       "type": "Mostly Indica",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 484,
@@ -4088,7 +4088,7 @@
       "category": "-",
       "category2": "Spooky",
       "type": "Mostly Sativa",
-      "thc": 19
+      "thc": "Medium"
     },
     {
       "id": 485,
@@ -4098,7 +4098,7 @@
       "category": "-",
       "category2": "Food / Sweets / Space",
       "type": "Hybrid",
-      "thc": 22
+      "thc": "High"
     },
     {
       "id": 486,
@@ -4108,7 +4108,7 @@
       "category": "-",
       "category2": "Food / Sweets",
       "type": "Hybrid",
-      "thc": 23
+      "thc": "High"
     },
     {
       "id": 487,
@@ -4118,7 +4118,7 @@
       "category": "-",
       "category2": "Space",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 488,
@@ -4128,7 +4128,7 @@
       "category": "-",
       "category2": "Rainbows",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 489,
@@ -4138,7 +4138,7 @@
       "category": "-",
       "category2": "OTHER",
       "type": "Hybrid",
-      "thc": 25
+      "thc": "Very High"
     },
     {
       "id": 490,
@@ -4147,8 +4147,8 @@
       "background": "Green",
       "category": "Skunk",
       "category2": "Animals",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "Medium"
     },
     {
       "id": 491,
@@ -4157,8 +4157,8 @@
       "background": "Purple",
       "category": "-",
       "category2": "Food / Fruits / Sweets",
-      "type": "",
-      "thc": ""
+      "type": "Hybrid",
+      "thc": "High"
     },
     {
       "id": 492,
@@ -4167,8 +4167,8 @@
       "background": "Orange",
       "category": "-",
       "category2": "Food / Sweets",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "Medium"
     },
     {
       "id": 493,
@@ -4177,8 +4177,8 @@
       "background": "Green",
       "category": "-",
       "category2": "Food / Sweets",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 494,
@@ -4187,8 +4187,8 @@
       "background": "Green",
       "category": "-",
       "category2": "Food / Sweets / Animals",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 495,
@@ -4197,8 +4197,8 @@
       "background": "Orange",
       "category": "-",
       "category2": "Food / Sweets / Aliens / Space",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 496,
@@ -4207,8 +4207,8 @@
       "background": "Purple",
       "category": "-",
       "category2": "Food / Fruits",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 497,
@@ -4217,8 +4217,8 @@
       "background": "Pink",
       "category": "-",
       "category2": "Food / Sweets",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "Very High"
     },
     {
       "id": 498,
@@ -4227,8 +4227,8 @@
       "background": "Purple",
       "category": "-",
       "category2": "Food / Fruits / Space",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 499,
@@ -4237,8 +4237,8 @@
       "background": "Green",
       "category": "-",
       "category2": "Trippy",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     },
     {
       "id": 500,
@@ -4247,8 +4247,8 @@
       "background": "Brown",
       "category": "Chocolate",
       "category2": "Food / Sweets / Trippy",
-      "type": "",
-      "thc": ""
+      "type": "Mostly Indica",
+      "thc": "High"
     }
   ]
 }
