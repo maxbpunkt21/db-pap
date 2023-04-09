@@ -4249,6 +4249,76 @@
       "category2": "Food / Sweets / Trippy",
       "type": "Mostly Indica",
       "thc": "High"
+    },
+    {
+      "id": 991,
+      "name": "SnoopDogg OG",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Celebrity",
+      "category2": "Animals",
+      "type": "Mostly Indica",
+      "thc": "Very High"
+    },
+    {
+      "id": 992,
+      "name": "Mike Tyson OG",
+      "body": "Green",
+      "background": "Red",
+      "category": "Celebrity",
+      "category2": "OTHER",
+      "type": "Mostly Indica",
+      "thc": "Very High"
+    },
+    {
+      "id": 993,
+      "name": "Pancake Ice",
+      "body": "Green",
+      "background": "Blue / White",
+      "category": "Celebrity",
+      "category2": "Food / Sweets",
+      "type": "Mostly Sativa",
+      "thc": "Very High"
+    },
+    {
+      "id": 994,
+      "name": "Khalifa Kush",
+      "body": "Green",
+      "background": "Purple",
+      "category": "Celebrity",
+      "category2": "OTHER",
+      "type": "Hybrid",
+      "thc": "High"
+    },
+    {
+      "id": 995,
+      "name": "Inzane in the Membrane",
+      "body": "Green",
+      "background": "Green",
+      "category": "Celebrity",
+      "category2": "OTHER",
+      "type": "Mostly Sativa",
+      "thc": "High"
+    },
+    {
+      "id": 996,
+      "name": "Miley Cyrus",
+      "body": "Green",
+      "background": "Pink",
+      "category": "Celebrity",
+      "category2": "OTHER",
+      "type": "Hybrid",
+      "thc": "High"
+    },
+    {
+      "id": 997,
+      "name": "Post Traumatic Purple",
+      "body": "Purple",
+      "background": "Purple",
+      "category": "Celebrity",
+      "category2": "OTHER",
+      "type": "Mostly Indica",
+      "thc": "High"
     }
   ]
 }
